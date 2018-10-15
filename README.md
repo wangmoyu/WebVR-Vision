@@ -1,6 +1,6 @@
 # WebVR-Vision
 <br>
-You can check the representation at [here](https://cs1.ucc.ie/~mw16/CS6105/Lab4/117227893.html) .<br>
+You can check the representation on https://cs1.ucc.ie/~mw16/CS6105/Lab4/117227893.html.<br>
 <br>
 In this WebVR vision, I build a WebVR vision with Three.js library based on javascript. <br>
 <br>
